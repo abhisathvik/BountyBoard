@@ -1,6 +1,3 @@
-# Save the README content as a readme.md file
-
-readme_content = """
 # BountyBoard
 
 **BountyBoard** is a decentralized task management platform built on the Algorand blockchain. It enables users to post tasks (bounties) with associated rewards in Algorand tokens. Other users can claim these tasks, complete them, and receive the rewards—all managed securely through smart contracts.

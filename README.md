@@ -102,10 +102,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 For any inquiries or feedback, please open an issue on the [GitHub repository](https://github.com/abhisathvik/BountyBoard/issues).
 """
-
-# Save to a file
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as f:
-    f.write(readme_content)
-
-file_path
